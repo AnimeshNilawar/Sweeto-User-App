@@ -1,4 +1,3 @@
-
 # SWEETO User App
 
 Welcome to SWEETO User App, your ultimate solution for convenient food ordering! SWEETO offers a user-friendly platform to explore, order, and enjoy your favorite dishes hassle-free. With a range of features designed to enhance your food ordering experience, SWEETO ensures that every craving is satisfied with ease.
@@ -31,6 +30,8 @@ Welcome to SWEETO User App, your ultimate solution for convenient food ordering!
 - Order Status Tracking: Stay updated with real-time order status tracking from preparation to delivery.
 
 - Profile Update: Manage your profile information and preferences effortlessly.
+
+App Demo - https://youtu.be/1nE1y6Z4zGQ
 
 ## Screenshots 📸
 
