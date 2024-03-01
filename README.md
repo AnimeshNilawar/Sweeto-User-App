@@ -32,6 +32,7 @@ Welcome to SWEETO User App, your ultimate solution for convenient food ordering!
 - Profile Update: Manage your profile information and preferences effortlessly.
 
  ## App Demo - https://youtu.be/1nE1y6Z4zGQ
+ ## APK Link - https://drive.google.com/file/d/1yTNZrnORYTt_kwNYSiWV_rDakXX70yfY/view?usp=drive_link
 
 ## Screenshots 📸
 
