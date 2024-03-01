@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sweeto</string>
+    <string name="next">Next</string>
+    <string name="sweeto">Sweeto</string>
+    <string name="default_web_client_id">AIzaSyDb6PFjeEouiQpmrBqm33bATxxejfyRr9s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
